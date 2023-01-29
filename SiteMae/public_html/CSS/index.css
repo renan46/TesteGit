@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 24 de set. de 2022, 19:08:05
+    Author     : Renan
+*/
+
+p {
+text-align: right;
+}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+#primeiro{
+    text-align: 10px;
+}
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.botao{
+    /*position: relative;*/
+    /*display: inline-block;*/
+    /*position: absolute;*/
+  
+}
+
